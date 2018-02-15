@@ -1,0 +1,16 @@
+{
+  "name": "vue-webpack-template-envy",
+  "version": "1.0.0",
+  "description": "Template for wepack2 + vue2",
+  "main": "meta.js",
+  "repository": {
+    "type": "git"
+},
+  "keywords": [
+    "vue",
+    "webpack",
+    "template"
+  ],
+  "author": "envy",
+  "license": "MIT"
+}
